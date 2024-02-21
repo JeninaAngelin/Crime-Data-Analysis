@@ -1,28 +1,5 @@
 # Crime Data Analysis
 
-## Overview
-README.md
-	
-Initial commit
-	
-crime data analysis.ipynb
-	
-add ipython notebook
-	
-data_description.xls
-	
-Add files via upload
-	
-data_set.xlsx
-	
-Add files via upload
-	
-Repository files navigation
-
-    README
-
-Crime-Data-Analysis
-
 ## Files
 1. **crime data analysis.ipynb**: This is the main Jupyter notebook where the analysis is performed. It includes code, visualizations, and interpretations of the crime data.
 
