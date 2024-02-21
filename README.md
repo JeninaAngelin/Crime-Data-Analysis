@@ -19,6 +19,3 @@ You can use the provided Jupyter notebook to explore the dataset further, perfor
 
 ## Contributions
 Contributions to improve the analysis, add new features, or enhance the code are welcome. Please fork this repository, make your changes, and submit a pull request outlining your proposed modifications.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
