@@ -16,6 +16,3 @@ The analysis includes but is not limited to:
 
 ## Usage
 You can use the provided Jupyter notebook to explore the dataset further, perform additional analysis, or modify the code according to your requirements. The dataset and descriptions are also available for reference.
-
-## Contributions
-Contributions to improve the analysis, add new features, or enhance the code are welcome. Please fork this repository, make your changes, and submit a pull request outlining your proposed modifications.
